@@ -1,0 +1,19 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.title {
+  color: red;
+}
+input[type="submit"] {
+  background-color: chartreuse;
+  padding: 0px 20px 0px 20px;
+  color: black;
+  border-radius: 10px;
+}
+button {
+  background-color: red;
+  padding: 0px 20px 0px 20px;
+  border-radius: 10px;
+  color: white;
+}
